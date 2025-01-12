@@ -1,4 +1,4 @@
-# Python-Platformer
+# Python-2D Platformer
 
 # 💻 Launch Your Software Development Career Today!  
 
